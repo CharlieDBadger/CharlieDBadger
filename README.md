@@ -37,7 +37,7 @@
 
 <h3 align="center">Databases:</h3>
 <p align="center">
-   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
+   <img src="https://img.shields.io/badge/Oracle-e74c3c?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </p>
 
