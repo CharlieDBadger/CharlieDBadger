@@ -19,7 +19,7 @@
    <a target="_blank" href="https://holy-waitress-abf.notion.site/La-Fortaleza-del-Tej-n-TechBlog-14b9a466f0dd80aba93ad7f2c0712a7d"><img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></img></a>
    <a target="_blank" href="https://twitter.com/CharlieDBadger1"><img src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=X&logoColor=white"></img></a>
 </p>
-
+<br>
 
 <!-- skills -->
 <h2 align="center">My Skills</h2>
