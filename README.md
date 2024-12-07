@@ -1,8 +1,4 @@
 ## Building 🧱🔨
-
-
-
-
 <!--Banner-->
 ![Kiran1689 Banner Image](https://github.com/CharlieDBadger/CharlieDBadger/blob/main/resources/images/footer_castle.png)
 
@@ -13,34 +9,48 @@ I have a vocation for teaching, leadership, and teamwork.
 
 ## My Skills Include
 
-### Languages:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-EC7063?style=for-the-badge&logoColor=white)
-![CSharp](https://img.shields.io/badge/CSharp-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-AF7AC5?style=for-the-badge&logo=c&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-2ECC71?style=for-the-badge&logo=gnubash&logoColor=white)
+<h3 align="center">Languages:</h3>
+<p align="center">
+   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+   <img src="https://img.shields.io/badge/Java-EC7063?style=for-the-badge&logoColor=white" alt="Java">
+   <img src="https://img.shields.io/badge/CSharp-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="CSharp">
+   <img src="https://img.shields.io/badge/C-AF7AC5?style=for-the-badge&logo=c&logoColor=white" alt="C">
+   <img src="https://img.shields.io/badge/Bash-2ECC71?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
+</p>
 
-### Cybersecurity:
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
+<h3 align="center">Cybersecurity:</h3>
+<p align="center">
+   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
+   <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white" alt="VirusTotal">
+</p>
 
-### Hacking:
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![KaliLinux](https://img.shields.io/badge/KaliLinux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+<h3 align="center">Hacking:</h3>
+<p align="center">
+   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit">
+   <img src="https://img.shields.io/badge/KaliLinux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="KaliLinux">
+</p>
 
-### Databases:
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<h3 align="center">Databases:</h3>
+<p align="center">
+   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
+   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+</p>
 
-### IDE:
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+<h3 align="center">IDE:</h3>
+<p align="center">
+   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm">
+   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logoColor=white" alt="Visual Studio Code">
+   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse">
+</p>
 
-### Other Tools and Technologies:
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Git](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+<h3 align="center">Other Tools and Technologies:</h3>
+<p align="center">
+   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+   <img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Copilot">
+</p>
+
+
 
 
 ## My GitHub Stats
