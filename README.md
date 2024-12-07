@@ -11,6 +11,7 @@
    I am Carlos Bolaños, a cybersecurity professional and developer. <br> 
    I am continuously learning and working towards becoming a cybersecurity architect. <br> 
    I have a vocation for teaching, leadership, and teamwork. <br>
+   📜 Blog: <a href="https://holy-waitress-abf.notion.site/La-Fortaleza-del-Tej-n-TechBlog-14b9a466f0dd80aba93ad7f2c0712a7d">La Fortaleza del Tejón | TechBlog</a>
 </p>
 <br>
 
