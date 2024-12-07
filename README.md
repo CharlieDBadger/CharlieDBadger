@@ -52,7 +52,7 @@
 <h3 align="center">IDE's:</h3>
 <p align="center">
    <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm">
-   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logoColor=white" alt="Visual Studio Code">
+   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logoColor=white" alt="Visual Studio Code">
    <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse">
 </p>
 
