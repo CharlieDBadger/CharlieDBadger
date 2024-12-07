@@ -2,12 +2,16 @@
 <!--Banner-->
 ![Kiran1689 Banner Image](https://github.com/CharlieDBadger/CharlieDBadger/blob/main/resources/images/footer_castle.png)
 
-### About Me:
-I am Carlos Bolaños, a cybersecurity professional and developer.  
-I am continuously learning and working towards becoming a cybersecurity architect.  
-I have a vocation for teaching, leadership, and teamwork.  
+<!-- about me -->
+<h2 align="center">About me</h2>
+<p align="center">
+   I am Carlos Bolaños, a cybersecurity professional and developer. <br> 
+   I am continuously learning and working towards becoming a cybersecurity architect. <br> 
+   I have a vocation for teaching, leadership, and teamwork. <br> 
+</p>
 
-## My Skills Include
+<!-- skills -->
+<h2 align="center">My Skills</h2>
 
 <h3 align="center">Languages:</h3>
 <p align="center">
@@ -52,10 +56,10 @@ I have a vocation for teaching, leadership, and teamwork.
 
 
 
+<!-- github stats -->
+<h2 align="center">My GitHub Stats</h2>
 
-## My GitHub Stats
-
----
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CharlieDBadger&theme=gotham&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
@@ -65,6 +69,7 @@ I have a vocation for teaching, leadership, and teamwork.
 
 <hr>
 
+<!-- snake game -->
 <p align="center">
   <img  src="https://github.com/CharlieDBadger/CharlieDBadger/blob/output/github-snake-dark.svg"
     alt="example" />
@@ -72,6 +77,7 @@ I have a vocation for teaching, leadership, and teamwork.
 
 ---
 
+<!-- footer -->
 <p align="center">
    "The flame burns even if the rain falls." - Shigekuni Yamamoto-Genryūsai 🐦‍🔥
    <br>
