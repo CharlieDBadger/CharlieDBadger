@@ -1,9 +1,9 @@
-## Building 🧱🔨
-<!--Banner-->
-![Kiran1689 Banner Image](https://github.com/CharlieDBadger/CharlieDBadger/blob/main/resources/images/footer_castle.png)
+<!--Banner -->
+<p align="center">
+   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=About%20me&desc=CharlieDevBadger&descSize=13&descAlign=63&descAlignY=53&textBg=false&fontAlign=50&fontAlignY=41"/>
+</p>
 
 <!-- about me -->
-<h2 align="center">About me</h2>
 <p align="center">
    I am Carlos Bolaños, a cybersecurity professional and developer. <br> 
    I am continuously learning and working towards becoming a cybersecurity architect. <br> 
@@ -90,4 +90,7 @@
 
 ---
 
-Last Edited on: 07/12/2024
+<!--Footer--> 
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
