@@ -4,12 +4,13 @@
 
 <h4> Languages </h4>
 <span> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/CSharp-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </span>
 <h4> Frameworks </h4>
 <span>
@@ -18,13 +19,15 @@
 
 <h4> Databases </h4>
 <span>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </span>
 
 <h4> IDE </h4>
 <span>
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
 </span>
 
 <h4> Other Tools and Technologies </h4>
@@ -39,30 +42,27 @@
 <br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CharlieDBadger&show_icons=true&theme=dark&locale=en&layout=compact" alt="CharlieDBadger" /></p>
 
 <br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anii693&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=CharlieDBadger&show_icons=true&theme=dark&locale=en" alt="CharlieDBadger" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anii693&theme=dark" alt="anii693" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=CharlieDBadger&theme=dark" alt="CharlieDBadger" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 <hr width="60%" >
 
-https://holy-waitress-abf.notion.site/La-Fortaleza-del-Tej-n-TechBlog-14b9a466f0dd80aba93ad7f2c0712a7d
-
 <hr>
 <p align="center">
-   <i>No tree, it is said, can grow to heaven unless its roots are in hell.</i>
+   <i>The flame burns even if the rain falls.🐦‍🔥 </i>
    <br>
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/birunthaban-sarventhiran/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:charliedevbadger@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://holy-waitress-abf.notion.site/La-Fortaleza-del-Tej-n-TechBlog-14b9a466f0dd80aba93ad7f2c0712a7d"><img src="https://img.shields.io/badge/-Notion-12100E?style=for-the-badge&logo=Notion&logoColor=white"></img></a>
-<a target="_blank" href="https://twitter.com/CharlieDBadger1"><img src="https://img.shields.io/badge/-X_Twitter-1DA1F2?style=for-the-badge&logo=X&logoColor=white"></img></a>
+<a target="_blank" href="https://holy-waitress-abf.notion.site/La-Fortaleza-del-Tej-n-TechBlog-14b9a466f0dd80aba93ad7f2c0712a7d"><img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></img></a>
+<a target="_blank" href="https://twitter.com/CharlieDBadger1"><img src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=X&logoColor=white"></img></a>
 <br>
 </p>
 ------
-Credits: [Birunthaban Sarventhiran](https://github.com/Birunthaban)
 
-Last Edited on: 28/01/2023
+Last Edited on: 07/12/2024
