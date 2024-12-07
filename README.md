@@ -50,9 +50,11 @@ I have a vocation for teaching, leadership, and teamwork.
 <hr>
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+  <img  src="https://github.com/CharlieDBadger/CharlieDBadger/blob/output/github-snake-dark.svg"
     alt="example" />
 </p>
+
+
 
 <p align="center">
    "The flame burns even if the rain falls." - Shigekuni Yamamoto-Genryūsai 🐦‍🔥
