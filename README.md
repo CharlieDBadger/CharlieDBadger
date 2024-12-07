@@ -5,10 +5,10 @@
 <h4> Languages </h4>
 <span> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-EC7063?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/CSharp-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
+  <img src="https://img.shields.io/badge/C-AF7AC5?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/Bash-2ECC71?style=for-the-badge&logo=gnubash&logoColor=white">
 </span>
 
 <h4> Cybersecurity </h4>
