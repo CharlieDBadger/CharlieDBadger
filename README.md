@@ -1,5 +1,10 @@
 ## Building 🧱🔨
 
+### About me:
+I am Carlos Bolaños, a cybersecurity professional and developer. <br>
+I am continuously learning and working towards becoming a cybersecurity architect. <br>
+I have a vocation for teaching, leadership, and teamwork. <br>
+
 ## My Skills Include
 
 <h4> Languages </h4>
@@ -49,13 +54,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CharlieDBadger&show_icons=true&theme=dark&locale=en&layout=compact" alt="CharlieDBadger" /></p>
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=CharlieDBadger&show_icons=true&theme=dark&locale=en" alt="CharlieDBadger" /></p>
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=CharlieDBadger&theme=dark" alt="CharlieDBadger" /></p>
-<br><br><br><br><br><br><br><br><br><br>
-<hr width="60%" >
+<br><br><br><br><br><br><br><br><br>
 
 <hr>
 <p align="center">
