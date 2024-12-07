@@ -14,7 +14,6 @@
    <br>
    📜 Blog: <a href="https://holy-waitress-abf.notion.site/La-Fortaleza-del-Tej-n-TechBlog-14b9a466f0dd80aba93ad7f2c0712a7d">La Fortaleza del Tejón | TechBlog</a>
 </p>
-<br>
 
 <!-- skills -->
 <h2 align="center">My Skills</h2>
