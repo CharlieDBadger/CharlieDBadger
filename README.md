@@ -64,9 +64,7 @@
    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
    <img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Copilot">
 </p>
-
-
-
+<br>
 <!-- github stats -->
 <h2 align="center">My GitHub Stats</h2>
 
