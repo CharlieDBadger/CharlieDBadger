@@ -1,9 +1,7 @@
 <!--Banner -->
 <p align="center">
-   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=About%20me&desc=CharlieDevBadger&descSize=13&descAlign=63&descAlignY=53&textBg=false&fontAlign=50&fontAlignY=41"/>
+   <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&text=CharlieDevBadger&desc=Cybersecurity%20and%20Developement&descSize=13&descAlign=59&descAlignY=53&textBg=false&fontAlign=50&fontAlignY=41&reversal=false"/>
 </p>
-
-<!-- about me -->
 <p align="center">
    I am Carlos Bolaños, a cybersecurity professional and developer. <br> 
    I am continuously learning and working towards becoming a cybersecurity architect. <br> 
@@ -92,5 +90,5 @@
 
 <!--Footer--> 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
