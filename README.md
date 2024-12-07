@@ -9,6 +9,8 @@
    I am continuously learning and working towards becoming a cybersecurity architect. <br> 
    I have a vocation for teaching, leadership, and teamwork. <br> 
 </p>
+
+
 <!-- skills -->
 <h2 align="center">My Skills</h2>
 
