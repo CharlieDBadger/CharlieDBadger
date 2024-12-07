@@ -8,9 +8,7 @@
    I am Carlos Bolaños, a cybersecurity professional and developer. <br> 
    I am continuously learning and working towards becoming a cybersecurity architect. <br> 
    I have a vocation for teaching, leadership, and teamwork. <br> 
-</p>
 <br>
-<p align="center">
    "The flame burns even if the rain falls." - Shigekuni Yamamoto-Genryūsai 🐦‍🔥
    <br>
    <br>
