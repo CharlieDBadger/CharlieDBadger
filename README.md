@@ -9,6 +9,16 @@
    I am continuously learning and working towards becoming a cybersecurity architect. <br> 
    I have a vocation for teaching, leadership, and teamwork. <br> 
 </p>
+<br>
+<p align="center">
+   "The flame burns even if the rain falls." - Shigekuni Yamamoto-Genryūsai 🐦‍🔥
+   <br>
+   <br>
+   <a target="_blank" href="https://www.linkedin.com/in/birunthaban-sarventhiran/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+   <a target="_blank" href="mailto:charliedevbadger@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+   <a target="_blank" href="https://holy-waitress-abf.notion.site/La-Fortaleza-del-Tej-n-TechBlog-14b9a466f0dd80aba93ad7f2c0712a7d"><img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></img></a>
+   <a target="_blank" href="https://twitter.com/CharlieDBadger1"><img src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=X&logoColor=white"></img></a>
+</p>
 
 
 <!-- skills -->
@@ -41,7 +51,7 @@
    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </p>
 
-<h3 align="center">IDE:</h3>
+<h3 align="center">IDE's:</h3>
 <p align="center">
    <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm">
    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logoColor=white" alt="Visual Studio Code">
@@ -76,18 +86,7 @@
     alt="example" />
 </p>
 
----
 
-<!-- footer -->
-<p align="center">
-   "The flame burns even if the rain falls." - Shigekuni Yamamoto-Genryūsai 🐦‍🔥
-   <br>
-   <br>
-   <a target="_blank" href="https://www.linkedin.com/in/birunthaban-sarventhiran/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-   <a target="_blank" href="mailto:charliedevbadger@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-   <a target="_blank" href="https://holy-waitress-abf.notion.site/La-Fortaleza-del-Tej-n-TechBlog-14b9a466f0dd80aba93ad7f2c0712a7d"><img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></img></a>
-   <a target="_blank" href="https://twitter.com/CharlieDBadger1"><img src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=X&logoColor=white"></img></a>
-</p>
 
 ---
 
